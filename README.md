@@ -1,6 +1,6 @@
 This is a clone UI project, based on [Tesla home page](https://tesla.com) and Guilherme Rodz tutorial (https://www.youtube.com/watch?v=Mf4Se4ZGcG8)
 
-You can run using `npm start`. 
+You can run using `yarn start`. 
 
 
 Photos:
